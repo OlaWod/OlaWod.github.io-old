@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'HolaWorld'
-description: 'This blog will be written in pure English.\nMy Chinese blog: https://www.cnblogs.com/holaworld/'
+description: "This blog will be written in pure English.\nMy Chinese blog: https://www.cnblogs.com/holaworld/"
 keywords: 'your web keywords, another keywords'
 url: 'https://olawod.github.io/' # your host
 
@@ -19,7 +19,7 @@ NickName: 'OlaWod'
 webtitle: 'HolaWorld'
 bio: 'Liberation philosopher.'
 about: true
-aboutyou: 'I'm an undergraduate majoring in computer science.'
+aboutyou: "I'm an undergraduate majoring in computer science."
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -27,7 +27,7 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'jyli.chn@foxmail.com'
   weixin: '/assets/wechat.png' # 你的微信二维码存放的地址
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin='756825440'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  qq: "http://wpa.qq.com/msgrd?v=3&uin='756825440'&site=qq&menu=yes" # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/OlaWod'
   #Codepen: ''
   #weibo: ''
