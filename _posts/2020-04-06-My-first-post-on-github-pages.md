@@ -4,7 +4,7 @@ title: 'My first post on github pages'
 subtitle: 'This is a test post.'
 date: 2020-04-06
 author: OlaWod
-color: rgb(255,210,32)
+color: rgb(98,170,255)
 cover: '../assets/img/cover.png'
 tags: test
 ---

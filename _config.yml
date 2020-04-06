@@ -19,7 +19,7 @@ NickName: 'OlaWod'
 webtitle: 'HolaWorld'
 bio: 'Liberation philosopher.'
 about: true
-aboutyou: aaaa<a href="https://github.com/" target="_blank">https://github.com/</a><br>aaaa<a href="https://github.com/" target="_blank">https://github.com/</a><br>
+aboutyou: I am an undergraduate majoring in computer science.<br>My cnblog: <a href="https://www.cnblogs.com/holaworld/" target="_blank">https://www.cnblogs.com/holaworld/</a><br>My GitHub: <a href="https://github.com/OlaWod" target="_blank">https://github.com/OlaWod</a><br>My E-mail: <a href="mailto:jyli.chn@foxmail.com" target="_blank">jyli.chn@foxmail.com</a><br>My Discord: HolaWorld#3726<br>More contact ways please press icons below.
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
