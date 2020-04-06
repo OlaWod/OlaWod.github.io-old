@@ -19,7 +19,7 @@ NickName: 'OlaWod'
 webtitle: 'HolaWorld'
 bio: 'Liberation philosopher.'
 about: true
-aboutyou: 'I''m an undergraduate majoring in computer science. \n My Chinese blog: https://www.cnblogs.com/holaworld/ \n My E-mail: jyli.chn@foxmail.com'
+aboutyou: aaaa<a href="https://github.com/" target="_blank">https://github.com/</a><br>aaaa<a href="https://github.com/" target="_blank">https://github.com/</a><br>
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
