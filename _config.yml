@@ -19,13 +19,13 @@ NickName: 'OlaWod'
 webtitle: 'HolaWorld'
 bio: 'Liberation philosopher.'
 about: true
-aboutyou: "I'm an undergraduate majoring in computer science.\nMy Chinese blog: https://www.cnblogs.com/holaworld/"
+aboutyou: 'I am an undergraduate majoring in computer science.\nMy Chinese blog: https://www.cnblogs.com/holaworld/'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'jyli.chn@foxmail.com'
+  mail: 'mailto:jyli.chn@foxmail.com'
   weixin: '/assets/wechat.png' # 你的微信二维码存放的地址
   qq: '/assets/qq.jpg' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/OlaWod'
